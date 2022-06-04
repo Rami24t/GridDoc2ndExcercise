@@ -1,6 +1,6 @@
-# Solution - Live Version
+# Solution - Live Version (fully responsive design)
 
-My Solution - live version: https://rami24t.github.io/GridDoc2ndExcercise/ (responsive design)
+My Solution - live version: https://rami24t.github.io/GridDoc2ndExcercise/
 
 # Grid Document Layout
 
