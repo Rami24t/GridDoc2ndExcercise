@@ -2,6 +2,7 @@
 
 https://rami24t.github.io/GridDoc2ndExcercise/
 
+- Added full-responsivity.
 
 # Grid Document Layout
 
