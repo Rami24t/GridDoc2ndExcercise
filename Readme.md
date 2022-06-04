@@ -1,4 +1,4 @@
-# Solution - Live Version (fully responsive design)
+# Solution - Live Version (fully responsive)
 
 My Solution - live version: https://rami24t.github.io/GridDoc2ndExcercise/
 
