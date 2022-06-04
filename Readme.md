@@ -1,8 +1,6 @@
-# My live Solution
+# Solution - Live Version
 
-https://rami24t.github.io/GridDoc2ndExcercise/
-
-- Added full-responsivity.
+My Solution - live version: https://rami24t.github.io/GridDoc2ndExcercise/ (responsive design)
 
 # Grid Document Layout
 
